@@ -10,7 +10,7 @@ An object detection model build over the Agora's 1-to-1 video call. This model n
 #Quick Start
 
 Jump right into the code and see how to extract objects over agora's video call interface: 
-1. Create an account at [agora.io](https://dashboard.agora.io). From the project manager create a new project and use the given app ID for this video call.
+1. Create an account on [agora.io](https://dashboard.agora.io). From the project manager create a new project and use the given app ID for this video call.
 2. Open Object Detection folder and install all the python requirements through the terminal command 
 '''bash
 pip install -r requirements.txt
